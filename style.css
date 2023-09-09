@@ -1,0 +1,71 @@
+nav {
+    background-color: #00cbe6;
+}
+.navbar .container a {
+    color: white;
+}
+.navbar .container ul a:hover {
+    color: lightgrey;
+}
+.jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 0.5cm;
+    background-color: #8cf2ff;
+}
+#about h2 {
+    padding-bottom: 0.5cm;
+}
+#about a {
+    color: #0098ac;
+}
+#about a:hover {
+    color: #00cbe6;
+}
+#about p {
+    text-align: justify;
+    padding-bottom: 0.5cm;
+}
+#contents {
+    background-color: #8cf2ff;
+    padding-bottom: 0.5cm;
+}
+#contents .row .col h2 {
+    padding-bottom: 0.5cm;
+}
+.list-group-item a {
+    color: #00cbe6;
+    font-family: sans-serif;
+    line-height: 1.5;
+    text-decoration: none;
+    width: 400px
+  }
+  .list-group-item a:hover {
+    color: #0098ac;
+  }
+#contact {
+    padding-top: 3rem;
+    padding-bottom: 0.5cm;
+    background-color: #ebfcff;
+}
+form .btn {
+    background-color: #00cbe6;
+}
+form .btn:hover {
+    background-color: #0098ac;
+}
+footer {
+    background-color: #00cbe6;
+    padding-top: 0.5cm;
+    padding-bottom: 0.25cm;
+}
+footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+footer a:hover {
+    color: lightgrey;
+}
+section {
+    padding-top: 3.25rem;
+}
